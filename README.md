@@ -1,4 +1,4 @@
-# Transcendence
+# Improved_Transcendence
 
 ## Overview
 
@@ -53,4 +53,8 @@ To set up and run Transcendence locally, you can follow these steps:
    cd ##The repo name
 
    make
+
+2. Open you're favorite browser and access to: "https://localhost"
+
+3. Enjoy the game
 
